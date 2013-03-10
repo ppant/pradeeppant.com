@@ -1,4 +1,6 @@
 pradeeppant.com
 ===============
 
-My home page source code
+Source code of home page.
+
+You can check my programming blog at http://pradeeppant.com
