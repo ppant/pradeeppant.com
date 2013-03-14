@@ -3,4 +3,6 @@ pradeeppant.com
 
 Source code of home page.
 
-You can check my programming blog at http://pradeeppant.com
+Please visit my programming blog at http://pradeeppant.com
+
+You can contact me at pantpradeep@gmail.com
