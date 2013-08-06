@@ -1,6 +1,6 @@
 =head1 pradeeppant.com
-Source code of home page
+Source Code of home page
 =head1 About 
 Source code of my programming blog at http://pradeeppant.com.
 =head1 Copyright and License
-Copyright © 2007-2013 Pradeep K. Pant All Rights Reserved.
+Copyright (c) 2007-2013 Pradeep K. Pant All Rights Reserved.
